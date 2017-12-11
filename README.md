@@ -18,4 +18,6 @@ The rule is that they must be completed in 1 to 10 commits.
 	- Detects cycles with specified lengths
 	- Accepts a bet and calculates odds of winning by running through past data.
 	- Screenshots:
-	
+		- ![graph](https://github.com/kieferyap/one-shot-projects/blob/master/lottery/lotto7.png)
+		- ![screenshot-1](https://github.com/kieferyap/one-shot-projects/blob/master/lottery/screenshot-1.png)
+		- ![screenshot-2](https://github.com/kieferyap/one-shot-projects/blob/master/lottery/screenshot-2.png)
